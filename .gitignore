@@ -222,8 +222,12 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# personal raw data - never commit
+# personal data 
 data/raw/
+data/processed/
 
 # macOS
 .DS_Store
+
+notebooks/scratch/
+
